@@ -1,0 +1,13 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "postbird <ptbird@yeah.net> (http://www.ptbird.cn/)",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-body": "^4.0.3",
+    "koa-nunjucks-2": "^3.0.2",
+    "koa-router": "^7.4.0"
+  }
+}
